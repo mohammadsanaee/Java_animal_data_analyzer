@@ -1,0 +1,18 @@
+id,name,race,weight,maxSpeed
+2,Elephant,African elephant,5000,40
+4,Cheetah,Acinonyx jubatus,50,120
+5,Kangaroo,Red kangaroo,90,70
+7,Zebra,Burchell's zebra,300,65
+8,Penguin,Emperor penguin,30,15
+9,Leopard,Panthera pardus,60,58
+10,Crocodile,Saltwater crocodile,1000,24
+11,Tiger,Bengal tiger,220,65
+12,Chimpanzee,Common chimpanzee,70,40
+13,Leopard,Panthera pardus,65,60
+14,Hippopotamus,Hippopotamus amphibius,1400,32
+15,Kangaroo,Red kangaroo,80,75
+16,Cheetah,Acinonyx jubatus,48,115
+17,Emu,Emu,45,50
+18,Giraffe,Masai giraffe,1100,55
+20,Zebra,Burchell's zebra,320,60
+875fa412-dc8d-4cc4-862b-c9fa74b79b6e,erreer,erre,33,3
